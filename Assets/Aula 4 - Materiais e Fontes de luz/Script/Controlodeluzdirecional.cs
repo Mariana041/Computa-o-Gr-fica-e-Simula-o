@@ -13,6 +13,7 @@ public class Controlodeluzdirecional : MonoBehaviour
     Light m_Light;
     float rotationSpeed = 4;
     public Color[] cores = new Color[3];
+
    
 
 
